@@ -1,4 +1,5 @@
 # 🙋‍ 2022.2 - Módulo IoT - Turma 3 - Atech Embraer
+
 ## 🔍 O problema:
 
 
@@ -10,8 +11,8 @@
 
 ## 💻 Solução IoT:
 
-- Grupo 1 - Lion Devs - LION HUNT
-  - Link do repositório: https://github.com/2022M4T2-Inteli/LIONDEVS
+- Grupo 1 - Atech Find-It - Ghibli
+  - Link do repositório: https://github.com/2022M4T3-Inteli/Ghibli
   
 - Grupo 2 - Projeto 2 - Find U
   - Link do repositório: https://github.com/2022M4T3-Inteli/Projeto2
