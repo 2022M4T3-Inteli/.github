@@ -15,7 +15,7 @@
   - Link do repositório: https://github.com/2022M4T3-Inteli/Ghibli
   
 - Grupo 2 - Projeto 2 - Find U
-  - Link do repositório: https://github.com/2022M4T3-Inteli/Projeto2
+  - Link do repositório: https://github.com/2022M4T3-Inteli/FindU
   
 - Grupo 3 - Sauron - IoT para localização indoor de objetos (Atech)
   - Link do repositório: https://github.com/2022M4T3-Inteli/Sauron
