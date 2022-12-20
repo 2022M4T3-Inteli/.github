@@ -1,13 +1,13 @@
 # 🙋‍ 2022.2 - Módulo IoT - Turma 3 - Atech Embraer
 
 ## 🔍 O problema:
-
+Localização de objetos em ambientes indoor.
 
 ## 🎯 O objetivo:
-
+Utilizando hardwares de baixo custo, e infraestrutura existente ou de simples instalação, construir um sistema, com um equipamento sem fio que possa ser fixado em objetos ou ativos, e forneça seu posicionamento dentro de um ambiente indoor.
 
 ## 🧩 O público-alvo:
-
+Equipe da empresa.
 
 ## 💻 Solução IoT:
 
