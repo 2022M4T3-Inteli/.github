@@ -1,4 +1,4 @@
-# 🙋‍ 2022.2 - Módulo IoT - Turma 3 - Atech Embraer
+# 🙋‍ 2022.2 - Módulo IoT - Turma 3 - Atech
 
 ## 🔍 O problema:
 Localização de objetos em ambientes indoor.
